@@ -1,0 +1,24 @@
+/* body {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+} */
+
+#total-login {
+  align-items: center;
+  /* border: 2px solid red; */
+  display: flex;
+  height: 100%;
+  justify-content: center;
+  margin: 0;
+  position: fixed;
+  width: 100%;
+}
+
+#login {
+  border: 0.1px solid rgba(19, 19, 1, 0.3);
+  border-radius: 8px;
+  box-shadow: 1px 1px rgba(19, 19, 1, 0.3);
+  padding: 20px;
+}
+
